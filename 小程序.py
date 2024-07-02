@@ -1,5 +1,5 @@
 import json
-
+#做一个
 # 定义一个全局变量来存储库存数据
 inventory = {}
 

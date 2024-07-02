@@ -11,3 +11,4 @@ print(a)
 #删除
 del a['hhh']  # 删除按钮
 print (a)
+
